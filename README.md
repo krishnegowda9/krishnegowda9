@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @krishnegowda
+- 👋 Hello, I’m krishnegowda KN
 - 👀 I’m interested in ... Data Science
 - 🌱 I’m currently learning ... fundamentals of Data Science
 - 💞️ I’m looking to collaborate on ... ML and DL
