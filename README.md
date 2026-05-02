@@ -1,6 +1,5 @@
 # Hi 👋, I'm KrishneGowda K N
   I AM A PASSIONATE AI/ML ENGINEER FROM INDIA 🌏
- ## Let’s Connect:
 - **Email:** [krishnegowda.kn.19@gmail.com](mailto:krishnegowda.kn.19@gmail.com)  
   Feel free to reach out for any inquiries, collaborations, or discussions.
 
