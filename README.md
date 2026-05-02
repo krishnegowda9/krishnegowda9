@@ -1,5 +1,5 @@
-# 💫 About Me:
-Iam an Pasionate AI/ML Engineer From INDIA 
+
+# Iam an Pasionate AI/ML Engineer From INDIA 
 
 
 ## 🌐 Socials:
