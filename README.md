@@ -1,17 +1,339 @@
-# Hi 👋, I'm KrishneGowda K N
-  I AM A PASSIONATE AI/ML ENGINEER FROM INDIA 🌏
-- **Email:** [krishnegowda.kn.19@gmail.com](mailto:krishnegowdakn019@gmail.com)  
-  Feel free to reach out for any inquiries, collaborations, or discussions.
+<div align="center">
 
-- **LinkedIn:** [Krishne Gowda K.N.](https://www.linkedin.com/in/krishne-gowda-k-n-391b4b293/)  
-  Let’s connect on LinkedIn to explore professional opportunities and share insight.
+# 👋 Hey, I'm **KrishneGowda K N**
 
-# 💻 Tech Stack:
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+### 🤖 AI & ML Engineer | GenAI | RAG | Computer Vision | MLOps
 
-# 📊 GitHub Stats:
+**I build intelligent systems that turn data into real-world solutions.**
 
-![](https://streak-stats.demolab.com/?user=krishnegowda9&theme=vue-dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnegowda9&theme=vue-dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://github.com/krishnegowda9">
+    <img src="https://img.shields.io/badge/GitHub-krishnegowda9-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/krishne-gowda-k-n-391b4b293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+</div>
+
+---
+
+## 🧠 About Me
+
+I'm **KrishneGowda K N**, a B.E. Artificial Intelligence & Machine Learning student passionate about building practical AI systems.
+
+My current focus is on:
+
+* 🤖 **Generative AI & AI Agents**
+* 🔎 **RAG & intelligent document systems**
+* 👁️ **Computer Vision**
+* 🧠 **Machine Learning & Deep Learning**
+* ⚡ **FastAPI & AI-powered backends**
+* 🐳 **Docker & containerized applications**
+* ☁️ **AWS & cloud deployment**
+* ☸️ **Kubernetes & MLOps**
+* 🔧 **Building production-oriented AI applications**
+
+> **My goal:** Move beyond simply training models and learn how to build, deploy, scale and maintain complete AI systems.
+
+---
+
+## 🚀 What I Build
+
+```text
+        DATA
+         │
+         ▼
+   ┌─────────────┐
+   │ AI / ML     │
+   │ Models      │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ GenAI / RAG │
+   │ AI Agents   │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ FastAPI     │
+   │ Backend     │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ Docker      │
+   │ Kubernetes  │
+   └──────┬──────┘
+          │
+          ▼
+   ┌─────────────┐
+   │ AWS / Cloud │
+   └─────────────┘
+```
+
+I enjoy working across the complete AI application lifecycle:
+
+**Data → Model → API → Container → Cloud → Scalable AI System**
+
+---
+
+# 🔥 Featured Projects
+
+### 📝 AI-Powered Automated Answer Sheet Evaluation
+
+An intelligent evaluation platform designed to evaluate **handwritten and typed answers** using OCR, NLP and semantic similarity.
+
+**Core technologies**
+
+`Python` `FastAPI` `OpenCV` `Tesseract OCR` `EasyOCR` `Sentence Transformers` `RAG` `React` `PostgreSQL`
+
+**Key capabilities**
+
+* ✍️ Handwritten answer recognition
+* 🔤 OCR preprocessing
+* 🧠 Semantic answer evaluation
+* 📚 Concept coverage analysis
+* 📊 Automated scoring
+* 📈 Student performance analytics
+* 🌐 Teacher / Student authentication
+* 🇮🇳 English / Kannada support
+* 💡 AI-generated improvement recommendations
+
+---
+
+### 🦌 Intelligent Wildlife Poaching Detection & Response System
+
+AI-powered computer vision system designed to detect potential wildlife poaching situations and automatically trigger alerts.
+
+**Technologies**
+
+`YOLOv8` `Python` `FastAPI` `MongoDB` `OpenCV` `JavaScript` `SMTP`
+
+**Detection pipeline**
+
+```text
+Camera / Image
+      ↓
+YOLOv8 Detection
+      ↓
+Person / Animal / Weapon
+      ↓
+Risk Analysis
+      ↓
+High-Risk Event
+      ↓
+Automated Alert
+```
+
+Developed as part of an **Infosys Springboard virtual internship**.
+
+---
+
+### 🛒 AI-Powered E-Commerce Platform
+
+A production-oriented e-commerce platform combining traditional commerce with an **intelligent AI shopping assistant**.
+
+**Planned architecture**
+
+```text
+User
+ │
+ ▼
+NGINX
+ │
+ ▼
+Frontend
+ │
+ ▼
+API Gateway
+ │
+ ├── Product Service
+ ├── User Service
+ ├── Order Service
+ └── AI Assistant
+        │
+        ├── LLM
+        ├── RAG
+        └── Recommendation Engine
+ │
+ ▼
+Docker
+ │
+ ▼
+Kubernetes
+ │
+ ▼
+AWS Cloud
+```
+
+**Focus:** AI + Microservices + Kubernetes + Cloud + scalable architecture.
+
+---
+
+# 🛠️ Tech Stack
+
+### Programming
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,sql,html,css,js" />
+</p>
+
+### AI / Machine Learning
+
+`Machine Learning` `Deep Learning` `NLP` `Computer Vision`
+
+`Scikit-learn` `TensorFlow` `PyTorch` `OpenCV`
+
+### Generative AI
+
+`LLMs` `RAG` `Embeddings` `Vector Databases`
+
+`Sentence Transformers` `Hugging Face` `AI Agents`
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi,mongodb,postgres" />
+</p>
+
+### DevOps & Cloud
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,git,github,linux" />
+</p>
+
+---
+
+# 🧩 Currently Learning
+
+```text
+AI Agents
+   ↓
+Advanced RAG
+   ↓
+LLM Applications
+   ↓
+Microservices
+   ↓
+Docker
+   ↓
+Kubernetes
+   ↓
+AWS
+   ↓
+MLOps / CI-CD
+```
+
+I'm particularly interested in understanding **how AI models become reliable production systems**.
+
+---
+
+# 💼 Experience & Community
+
+### 🟣 Infosys Springboard
+
+**AI Virtual Internship**
+
+Worked on an intelligent wildlife poaching detection and response system.
+
+### 🔵 Google Student Ambassador
+
+Engaging with the developer and student technology community.
+
+### 🟢 GirlScript Summer of Code
+
+Open-source contributor.
+
+### 🟠 IBM SkillsBuild
+
+Completed AI-focused virtual internship / learning experience.
+
+---
+
+# 📊 GitHub Analytics
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krishnegowda9&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=krishnegowda9&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 📈 Most Used Languages
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krishnegowda9&layout=compact&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+# 🎯 2026 → 2027 Mission
+
+```text
+              AI / ML ENGINEER
+                     │
+        ┌────────────┼────────────┐
+        ▼            ▼            ▼
+      GenAI        MLOps       Cloud
+        │            │            │
+       RAG       Kubernetes       AWS
+        │            │            │
+        └────────────┼────────────┘
+                     ▼
+             Production AI
+                Systems
+```
+
+### My current goals
+
+* [x] Learn Machine Learning fundamentals
+* [x] Build AI/ML projects
+* [x] Work with FastAPI
+* [x] Explore Generative AI
+* [x] Build RAG applications
+* [ ] Build production-grade AI agents
+* [ ] Master Docker
+* [ ] Deploy applications on AWS
+* [ ] Learn Kubernetes
+* [ ] Build CI/CD pipelines
+* [ ] Develop end-to-end MLOps workflows
+
+---
+
+# 🌱 Beyond Code
+
+I believe the best AI projects are not just about **accuracy**.
+
+They should be:
+
+**Useful → Explainable → Scalable → Deployable → Maintainable**
+
+That's the direction I'm building toward.
+
+---
+
+<div align="center">
+
+## 🤝 Let's Build Something Intelligent
+
+I'm always interested in collaborating on:
+
+**AI • GenAI • RAG • Computer Vision • MLOps • Open Source**
+
+<br>
+
+⭐ If you find something useful here, consider starring the repository.
+
+<br>
+
+**"Don't just build models. Build systems that matter."**
+
+</div>
